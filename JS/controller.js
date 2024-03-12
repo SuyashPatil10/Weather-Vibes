@@ -50,3 +50,4 @@ const setOpacity = function() {
 setOpacity();
 controlFirstWeather();
 controlSearchWeather();
+console.log('Welcome to the Weather Vibes Application!');
