@@ -49,15 +49,15 @@ https://github.com/SuyashPatil10/Weather-Vibes/assets/126397075/610370ce-fa49-43
 
 weather conditions of users current location.
 
-![pic1](https://github.com/SuyashPatil10/Weather-Vibes/assets/126397075/02859e37-df31-4d26-8822-413736260ebb)
+![weather-vibes-1](https://github.com/SuyashPatil10/Weather-Vibes/assets/126397075/6b48a764-5e3a-4b6d-acdc-08a115a3fcd9)
 
 weather conditions according to users search.
 
-![pic2](https://github.com/SuyashPatil10/Weather-Vibes/assets/126397075/5634c4e6-5a7c-4dbc-a380-7ad377f6489a)
+![weather-vibes-2](https://github.com/SuyashPatil10/Weather-Vibes/assets/126397075/462e3b2f-7db7-42f0-9b4d-91adabd7c8a1)
 
 Search functionality
 
-![pic3](https://github.com/SuyashPatil10/Weather-Vibes/assets/126397075/ae560e5e-ead7-444e-b5ec-80a11302d081)
+![weather-vibes-3](https://github.com/SuyashPatil10/Weather-Vibes/assets/126397075/c1ba56e7-389e-4c92-a897-9072544639e8)
 
 #### ⛵ Thank you for exploring Weather Vibes! We hope our weather web application enhances your forecasting experience and helps you stay prepared for any weather condition. Happy exploring and stay weather-wise!
 
