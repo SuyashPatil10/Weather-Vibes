@@ -20,6 +20,12 @@
 ⛱️ Whether you're planning outdoor activities, traveling, or simply staying updated on the weather, Weather Vibes offers a user-friendly interface and comprehensive features to meet your weather needs. Join us on Weather Vibes and elevate your weather forecasting experience today!
 </p>
 
+## Walk through Video
+
+https://github.com/SuyashPatil10/Weather-Vibes/assets/126397075/610370ce-fa49-43b0-a33c-7a4e2da87a99
+
+
+
 ## Technology used
 
 - ### Languages
